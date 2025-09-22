@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "OASIS: 3-Day Team Template"
-subtitle: "A friction-free guide for collaborative research sprints"
+title: "Transformations in Species Interactions: 3-Day Sprint Template"
+subtitle: "Guidance for Restoration Innovation Summit Group 12"
 hero_image: assets/template/hero.svg
 team_logo: assets/template/team-logo.svg
-contact_slack: "#oasis-project-room"
-contact_email: "team@example.org"
-repo_owner: "cu-esiil"
-repo_name: "Project_group_OASIS"
+contact_slack: "#innovation-summit-2025-group-12"
+contact_email: "esiil@colorado.edu"
+repo_owner: "CU-ESIIL"
+repo_name: "transformations-species-interactions-restoration-innovation-summit-2025__12"
 edit_path: "docs/project_template.md"
 ---
 

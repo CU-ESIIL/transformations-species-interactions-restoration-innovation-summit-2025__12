@@ -1,9 +1,20 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "Project Group OASIS"
-version: "1.0.0"
-doi: 10.5281/zenodo.11166898
-date-released: 2025-09-10
+title: "Transformations in Species Interactions — Innovation Summit 2025 (Group 12)"
+abstract: |
+  Documentation, code, and communication assets from Group 12 at the 2025
+  Restoration Innovation Summit. The project investigates how restoration
+  interventions shift species interactions across Colorado wetlands and shares
+  reproducible workflows, visualizations, and guidance for collaborators.
+version: "0.1.0"
+date-released: 2025-02-01
 authors:
-  - family-names: Tuff
-    given-names: Ty
+  - name: "ESIIL Innovation Summit 2025 Group 12"
+repository-code: "https://github.com/CU-ESIIL/transformations-species-interactions-restoration-innovation-summit-2025__12"
+url: "https://cu-esiil.github.io/transformations-species-interactions-restoration-innovation-summit-2025__12/"
+license: MIT
+keywords:
+  - restoration ecology
+  - species interactions
+  - innovation summit
+  - collaboration
