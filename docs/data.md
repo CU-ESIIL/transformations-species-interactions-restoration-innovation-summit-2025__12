@@ -14,7 +14,7 @@ Document datasets feeding our restoration interaction analyses. Include access n
 
 ## Storage locations
 - **Working files:** tracked in GitHub when smaller than 50 MB.
-- **Large rasters & raw exports:** upload to the [Group 12 CyVerse folder](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_12) using the [persistent storage instructions](instructions/save-to-persistent-storage.md).
+- **Large rasters & raw exports:** upload to the [Group 12 CyVerse folder](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_12?type=folder&resourceId=b8511080-95a1-11f0-b0fb-90e2ba675364) using the [persistent storage instructions](instructions/save-to-persistent-storage.md).
 
 ## Data governance
 - Confirm data-sharing agreements with partners before publishing derived products.

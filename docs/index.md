@@ -11,7 +11,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 **One sentence on impact:** We are mapping how restoration actions reshape species interactions so practitioners can see which interventions create resilient, biodiverse wetlands.
 
-**[Concept brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf) · [View shared code](https://github.com/CU-ESIIL/transformations-species-interactions-restoration-innovation-summit-2025__12/tree/main/code) · [Data & access](data.md)**
+**[Concept brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View shared code](https://github.com/CU-ESIIL/transformations-species-interactions-restoration-innovation-summit-2025__12/blob/main/code/prism_quicklook.py) · [Data & access](https://github.com/CU-ESIIL/transformations-species-interactions-restoration-innovation-summit-2025__12/blob/main/code/prism_quicklook.py)**
 
 > **About this site:** This live notebook captures our three-day sprint at the Restoration Innovation Summit. Edit in your browser: open a file → pencil icon → Commit changes.
 
@@ -144,13 +144,13 @@ Restoration teams need a clear read on whether interventions are helping or hind
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf"><img src="assets/button_brief.gif" alt="Concept brief PDF" width="240"><br><strong>Read the concept brief</strong></a>
+  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa"><img src="assets/button_brief.gif" alt="Concept brief PDF" width="240"><br><strong>Read the concept brief</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/transformations-species-interactions-restoration-innovation-summit-2025__12/blob/main/code/fired_time_hull_panel.ipynb"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>Run the notebooks</strong></a>
+  <a href="https://github.com/CU-ESIIL/transformations-species-interactions-restoration-innovation-summit-2025__12/blob/main/code/prism_quicklook.py"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>Run the notebooks</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/transformations-species-interactions-restoration-innovation-summit-2025__12/blob/main/code/single_hull_demo.py"><img src="assets/button_data.gif" alt="Explore processed data" width="240"><br><strong>Explore processed data</strong></a>
+  <a href="https://github.com/CU-ESIIL/transformations-species-interactions-restoration-innovation-summit-2025__12/blob/main/code/prism_quicklook.py"><img src="assets/button_data.gif" alt="Explore processed data" width="240"><br><strong>Explore processed data</strong></a>
 </td>
 </tr>
 </table>
@@ -175,7 +175,7 @@ Documentation
 Use the [`docs/`](https://github.com/CU-ESIIL/transformations-species-interactions-restoration-innovation-summit-2025__12/tree/main/docs) folder to publish project updates on this site. Longer internal notes can live in [`documentation/`](https://github.com/CU-ESIIL/transformations-species-interactions-restoration-innovation-summit-2025__12/tree/main/documentation); summarize key takeaways here so the public story stays current.
 
 Community storage
-All large data and shared deliverables should be stored in the [Group 12 CyVerse folder](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_12). Link relevant subfolders from the **Data** page so collaborators can find inputs and outputs quickly.
+All large data and shared deliverables should be stored in the [Group 12 CyVerse folder](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_12?type=folder&resourceId=b8511080-95a1-11f0-b0fb-90e2ba675364). Link relevant subfolders from the **Data** page so collaborators can find inputs and outputs quickly.
 
 ---
 
