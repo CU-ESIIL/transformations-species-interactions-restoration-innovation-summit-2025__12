@@ -1,6 +1,6 @@
-# Group Notes
+# Group 12 Notes
 
-Use this shared notebook to capture meeting highlights, decisions, and follow-up tasks.
+Use this shared notebook to capture meeting highlights, decisions, and follow-up tasks for the Transformations in Species Interactions project.
 
 - Summarize key takeaways after each working session.
 - Note data sources, analysis ideas, and open questions.
